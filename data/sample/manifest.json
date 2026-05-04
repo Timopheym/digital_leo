@@ -1,0 +1,450 @@
+{
+  "person_list": "reference/personList.xml",
+  "files": [
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v59_001_RektoruKazanskogouniversiteta.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v60_190_gr_S_N_Tolstomu.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v61_260_T_A_Kuzminskoj.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v62_146_N_N_Straxovu.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v62_489_N_N_Straxovu.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v63_563_l.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v64_423_V_V_Majnovu.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v66_009_E_V_Butkevich.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v66_468_A_I_Apollovu.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v67_264_E_I_Popovu.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v69_062_G_DzhordzhuGeorgeHenry.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v71_012_M_N_Dubrovinoj.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v72_063_A_S_Prugavinu.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v72_432_V_K_Zavolokinu.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v73_355_T_L_Suxotinoj.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v74_270_S_N_Tolstomu.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v75_262_L_O_Pasternaku.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v76_234_V_YU_Krylovu.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v77_198_L_D_Semenovu.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v78_188_I_A_Bodyanskomu.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v79_156_V_F_Krasnovu.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v80_190_A_T_Dzyube.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v81_122_E_I_Popovu.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v82_116_NeizvestnomusvyashhennikuA_T_T.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v83_152_iyunya11ili12.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v84_453_a11.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v84_756_a22ili23.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v86_219_a18.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v88_522_sentyabrya12.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "letters",
+      "rel_to_vendor": "texts/letters/v89_825_a26.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "diaries",
+      "rel_to_vendor": "texts/diaries/v46_003_004_1847_03_17.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "diaries",
+      "rel_to_vendor": "texts/diaries/v46_136_136_1852_07_24.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "diaries",
+      "rel_to_vendor": "texts/diaries/v46_172_172_1853_08_13.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "diaries",
+      "rel_to_vendor": "texts/diaries/v47_030_031_1854_11_20.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "diaries",
+      "rel_to_vendor": "texts/diaries/v47_088_089_1856_08_01.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "diaries",
+      "rel_to_vendor": "texts/diaries/v47_125_125_1857_04_16.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "diaries",
+      "rel_to_vendor": "texts/diaries/v47_166_166_1857_12_08.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "diaries",
+      "rel_to_vendor": "texts/diaries/v48_038_038_1861_10_08.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "diaries",
+      "rel_to_vendor": "texts/diaries/v49_057_057_1881_08_23.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "diaries",
+      "rel_to_vendor": "texts/diaries/v50_012_012_1888_12_09.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "diaries",
+      "rel_to_vendor": "texts/diaries/v50_110_111_1889_07_23.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "diaries",
+      "rel_to_vendor": "texts/diaries/v51_037_038_1890_04_18.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "diaries",
+      "rel_to_vendor": "texts/diaries/v52_019_020_1891_03_13.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "diaries",
+      "rel_to_vendor": "texts/diaries/v53_004_004_1895_01_29.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "diaries",
+      "rel_to_vendor": "texts/diaries/v53_160_160_1897_11_11_2.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "diaries",
+      "rel_to_vendor": "texts/diaries/v54_121_121_1902_01_07.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "diaries",
+      "rel_to_vendor": "texts/diaries/v55_121_125_1905_02_01.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "diaries",
+      "rel_to_vendor": "texts/diaries/v56_150_151_1908_09_14.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "diaries",
+      "rel_to_vendor": "texts/diaries/v57_149_149_1909_10_03.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "diaries",
+      "rel_to_vendor": "texts/diaries/v58_066_066_1910_06_17_2.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "works",
+      "rel_to_vendor": "texts/works/v01_003_095_Detstvo.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "works",
+      "rel_to_vendor": "texts/works/v04_363_364_Roman_russkogo_pomeschika_Predislovie_ne_dlja_chitatelja_a_dlja_avtora.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "works",
+      "rel_to_vendor": "texts/works/v08_247_300_Ob_obschestvennoj_dejatelnosti_na_poprische_narodnogo_obrazovanija_Vzgljad_krestjanina_na_gramotnost.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "works",
+      "rel_to_vendor": "texts/works/v17_353_356_O_znachenii_hristianskoj_religii.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "works",
+      "rel_to_vendor": "texts/works/v25_584_585_Mnogo_li_cheloveku_zemli_nuzhno_Varianty.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "works",
+      "rel_to_vendor": "texts/works/v27_428_432_Krejtserova_sonata_Varianty_k_poslesloviju.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "works",
+      "rel_to_vendor": "texts/works/v31_087_095_Predislovie_k_state_Eduarda_Karpentera_Sovremennaja_nauka.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "works",
+      "rel_to_vendor": "texts/works/v36_086_091_Otets_Vasilij.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "works",
+      "rel_to_vendor": "texts/works/v38_049_049_Net_huda_bez_dobra.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "works",
+      "rel_to_vendor": "texts/works/v40_313_332_Izbrannye_aforizmy_i_maksimy_Vovenarga.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "azbuka",
+      "rel_to_vendor": "texts/azbuka/v21_012_012_Zhili_kury_i_gusi_u_doma.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "azbuka",
+      "rel_to_vendor": "texts/azbuka/v21_072_072_Sidela_ptichka_na_vetke.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "azbuka",
+      "rel_to_vendor": "texts/azbuka/v21_214_214_Kak_gusi_Rim_spasli.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "azbuka",
+      "rel_to_vendor": "texts/azbuka/v21_391_391_Staryj_medved_zalez.xml"
+    },
+    {
+      "kind": "texts",
+      "section": "azbuka",
+      "rel_to_vendor": "texts/azbuka/v22_084_085_Kamen.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "gusev",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/gusev/data/tei/gusev_v2_116_116_1893_11_01_1894_02_28.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "gusev",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/gusev/data/tei/gusev_v2_200_200_1895_01_01_1896_12_31.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "gusev",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/gusev/data/tei/gusev_v2_298_298_1898_10_04_1898_10_05.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "gusev",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/gusev/data/tei/gusev_v2_301_301_1898_10_29_1898_10_29.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "gusev",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/gusev/data/tei/gusev_v2_381_381_1901_06_02_1901_06_14.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "gusev",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/gusev/data/tei/gusev_v2_517_517_1905_06_20_1905_06_20.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "gusev",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/gusev/data/tei/gusev_v2_603_603_1907_11_17_1907_11_17_1.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "gusev",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/gusev/data/tei/gusev_v2_604_604_1907_11_24_1907_11_24_2.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "makovitski",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/makovitski/data/xml/by_entry/makovitski-diaries_1905-06-20_1905-06-20.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "makovitski",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/makovitski/data/xml/by_entry/makovitski-diaries_1905-11-11_1905-11-11.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "makovitski",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/makovitski/data/xml/by_entry/makovitski-diaries_1907-02-27_1907-02-27.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "makovitski",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/makovitski/data/xml/by_entry/makovitski-diaries_1907-10-26_1907-10-26.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "makovitski",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/makovitski/data/xml/by_entry/makovitski-diaries_1907-11-02_1907-11-02.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "makovitski",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/makovitski/data/xml/by_entry/makovitski-diaries_1907-11-05_1907-11-05.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "makovitski",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/makovitski/data/xml/by_entry/makovitski-diaries_1907-11-24_1907-11-24.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "makovitski",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/makovitski/data/xml/by_entry/makovitski-diaries_1908-03-23_1908-03-23.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "tolstaya_diaries",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/tolstaya_diaries/data/xml/by_entry/tolstaya-s-a-diaries_1894-11-23_1894-11-23.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "tolstaya_diaries",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/tolstaya_diaries/data/xml/by_entry/tolstaya-s-a-diaries_1898-11-19_1898-11-19.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "tolstaya_diaries",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/tolstaya_diaries/data/xml/by_entry/tolstaya-s-a-diaries_1900-11-12_1900-11-12.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "tolstaya_diaries",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/tolstaya_diaries/data/xml/by_entry/tolstaya-s-a-diaries_1901-06-06_1901-06-06.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "tolstaya_diaries",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/tolstaya_diaries/data/xml/by_entry/tolstaya-s-a-journals_1905-11-06_1905-11-06.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "tolstaya_diaries",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/tolstaya_diaries/data/xml/by_entry/tolstaya-s-a-journals_1907-10-23_1907-10-23.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "tolstaya_diaries",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/tolstaya_diaries/data/xml/by_entry/tolstaya-s-a-journals_1907-11-22_1907-11-22.xml"
+    },
+    {
+      "kind": "bio",
+      "section": "tolstaya_diaries",
+      "rel_to_vendor": "tolstoy-bio/tolstoy_bio/tolstaya_diaries/data/xml/by_entry/tolstaya-s-a-journals_1907-12-06_1907-12-06.xml"
+    }
+  ]
+}

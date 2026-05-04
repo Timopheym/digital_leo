@@ -1,0 +1,31 @@
+# Secrets / local env
+.env
+.env.*
+!.env.example
+
+# Python / venv / caches
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+*.egg-info/
+build/
+dist/
+
+# Vendored upstream corpus (cloned locally via bootstrap; not committed)
+vendor/
+
+# Local dataset and pipeline artefacts (rebuilt from vendor/)
+data/sample/texts/
+data/sample/tolstoy-bio/
+data/sample/personList.xml
+output/
+
+# Editor / OS / tool state
+.DS_Store
+.idea/
+.vscode/
+.claude/
